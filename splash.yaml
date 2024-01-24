@@ -1,0 +1,17 @@
+flutter_native_splash:
+  color: #OB0C15
+  color_dark: #8156FD
+  image: images/boxing.png
+  image_dark: images/boxing.png
+
+
+  android_12:
+    color: #OB0C15
+    color_dark: #8156FD
+    image: images/boxing.png
+    image_dark: images/boxing.png
+
+  web: false
+
+
+
